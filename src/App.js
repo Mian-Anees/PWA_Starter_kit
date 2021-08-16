@@ -1,7 +1,9 @@
-import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
+import React from 'react';
+import logo from './logo.svg';
+
+<link rel="manifest" href="./manifest.json"></link>
 function App() {
   return (
     <div className="App">
